@@ -1,4 +1,7 @@
 #include "c_test.h"
+#include "iostream.h"
+#include "stdio.h"
+#include "application.h"
 
 void main(){
   char testChar[200];
